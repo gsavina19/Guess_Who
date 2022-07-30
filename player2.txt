@@ -1,0 +1,137 @@
+Nome player: giuseppe
+Sesso		Nome		Eta		Cappello	Carnagione	Colore_Capelli	Colore_Occhi	Lunghe_capelli	Tipo_Capelli	Occhiali	Naso		Baffi		Barba		Orecchini
+
+
+M		Stefano		Ragazzo		No		Olivastra	Biondi		Neri		Rasati		Lisci		Si		Patata		Si		Si		No
+F		Giorgia		Ragazzo		No		Olivastra	Bianchi		Azzurri		Rasati		Ricci		Si		All'insu	No		No		No
+M		Luigi		Anziano		Si		Scura		Castani		Azzurri		Rasati		Lisci		No		Lungo		No		No		Si
+F		Raffaella	Adulto		Si		Olivastra	Biondi		Castani		Rasati		Ricci		Si		Lungo		No		No		No
+M		Emanuele	Adulto		Si		Scura		Rossi		Castani		Corti		Mossi		No		Lungo		Si		No		No
+M		Pietro		Bambino		No		Lattea		Biondi		Neri		Corti		Lisci		Si		All'insu	Si		Si		No
+M		Luigi		Adulto		Si		Olivastra	Neri		Castani		Lunghi		Mossi		Si		Lungo		No		No		No
+M		Michele		Bambino		Si		Lattea		Bianchi		Azzurri		Lunghi		Lisci		Si		Patata		No		No		No
+F		Krizia		Anziano		Si		Mulatta		Biondi		Azzurri		Lunghi		Lisci		No		All'insu	No		No		No
+M		Michele		Anziano		No		Lattea		Neri		Castani		Rasati		Lisci		No		All'insu	Si		Si		Si
+F		Krizia		Ragazzo		No		Olivastra	Castani		Castani		Corti		Mossi		No		Lungo		No		No		No
+F		Sabrina		Anziano		No		Mulatta		Biondi		Castani		Rasati		Mossi		Si		Lungo		No		No		Si
+M		Nello		Anziano		No		Mulatta		Biondi		Neri		Lunghi		Lisci		No		All'insu	No		Si		Si
+M		Domenico	Ragazzo		No		Scura		Castani		Castani		Rasati		Ricci		Si		A_Punta		No		Si		Si
+F		Alisia		Ragazzo		Si		Lattea		Castani		Verdi		Corti		Ricci		Si		A_Punta		No		No		No
+M		Luigi		Anziano		No		Olivastra	Bianchi		Verdi		Rasati		Lisci		Si		All'insu	No		Si		No
+F		Lina		Anziano		Si		Olivastra	Neri		Neri		Corti		Lisci		Si		Patata		No		No		No
+M		Rufino		Adulto		No		Scura		Rossi		Verdi		Corti		Ricci		Si		Lungo		Si		No		No
+F		Micol		Bambino		Si		Scura		Bianchi		Neri		Lunghi		Lisci		No		Lungo		No		No		Si
+M		Vincenzo	Bambino		No		Olivastra	Rossi		Castani		Corti		Lisci		Si		Lungo		No		Si		No
+M		Michele		Ragazzo		No		Lattea		Castani		Azzurri		Lunghi		Lisci		No		All'insu	No		No		Si
+F		Krizia		Anziano		Si		Lattea		Rossi		Azzurri		Corti		Lisci		Si		All'insu	No		No		Si
+F		Giorgia		Adulto		No		Scura		Bianchi		Neri		Rasati		Ricci		No		A_Punta		No		No		Si
+F		Giuliana	Adulto		No		Mulatta		Castani		Neri		Corti		Ricci		No		All'insu	No		No		No
+F		Giuliana	Anziano		Si		Lattea		Bianchi		Azzurri		Lunghi		Mossi		No		Lungo		No		No		Si
+F		Micol		Bambino		No		Olivastra	Biondi		Azzurri		Lunghi		Mossi		Si		A_Punta		No		No		No
+F		Ilaria		Ragazzo		No		Lattea		Bianchi		Verdi		Lunghi		Lisci		No		Lungo		No		No		Si
+M		Luca		Ragazzo		No		Scura		Castani		Azzurri		Rasati		Lisci		No		Patata		Si		No		No
+F		Micol		Anziano		Si		Bianca		Rossi		Verdi		Lunghi		Lisci		No		A_Punta		No		No		Si
+M		Luca		Bambino		No		Mulatta		Bianchi		Verdi		Rasati		Mossi		Si		Lungo		Si		Si		No
+M		Luigi		Ragazzo		Si		Olivastra	Neri		Neri		Rasati		Lisci		No		Aquilino	Si		Si		No
+F		Paola		Adulto		Si		Bianca		Bianchi		Azzurri		Lunghi		Mossi		No		A_Punta		No		No		No
+F		Sabrina		Anziano		Si		Scura		Neri		Castani		Lunghi		Lisci		Si		Aquilino	No		No		Si
+F		Krizia		Ragazzo		No		Lattea		Rossi		Azzurri		Rasati		Lisci		Si		A_Punta		No		No		Si
+M		Domenico	Adulto		No		Lattea		Bianchi		Castani		Lunghi		Ricci		Si		Lungo		Si		Si		No
+M		Luca		Adulto		No		Scura		Biondi		Castani		Rasati		Lisci		No		Lungo		No		Si		No
+F		Elena		Bambino		No		Scura		Neri		Neri		Corti		Lisci		No		Aquilino	No		No		No
+F		Giorgia		Adulto		No		Olivastra	Bianchi		Azzurri		Corti		Mossi		No		Lungo		No		No		Si
+M		Marco		Bambino		Si		Lattea		Bianchi		Verdi		Corti		Ricci		Si		Lungo		No		Si		Si
+F		Giorgia		Anziano		Si		Bianca		Castani		Castani		Corti		Mossi		No		A_Punta		No		No		Si
+M		Michele		Anziano		No		Lattea		Bianchi		Neri		Lunghi		Lisci		Si		Patata		Si		No		No
+M		Lorenzo		Bambino		Si		Lattea		Rossi		Verdi		Corti		Mossi		No		A_Punta		Si		No		No
+M		Rufino		Ragazzo		No		Bianca		Castani		Verdi		Corti		Lisci		No		Patata		No		Si		No
+F		Alisia		Anziano		No		Bianca		Bianchi		Azzurri		Lunghi		Ricci		No		Patata		No		No		No
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+M		Giuseppe	Ragazzo		Si		Lattea		Castani		Castani		Rasati		Lisci		No		A_Punta		Si		Si		No
